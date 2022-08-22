@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\bin\Debug\BubbleSort-V1.exe.config
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\bin\Debug\BubbleSort-V1.exe
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\bin\Debug\BubbleSort-V1.pdb
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\obj\Debug\BubbleSort-V1.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\obj\Debug\BubbleSort-V1.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\obj\Debug\BubbleSort-V1.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\obj\Debug\BubbleSort-V1.exe
+D:\kia prjc\tamrin\BubbleSort-V1\BubbleSort-V1\obj\Debug\BubbleSort-V1.pdb
